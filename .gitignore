@@ -1,0 +1,14 @@
+*.db
+*.py[cod]
+.web
+.idx/
+.vscode/
+.reflexweb/
+
+
+__pycache__/
+assets/external/
+
+
+llmreflex/__pycache__/*
+.env
