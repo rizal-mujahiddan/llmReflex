@@ -6,9 +6,12 @@
 .reflexweb/
 
 
+
 __pycache__/
 assets/external/
 
 
 llmreflex/__pycache__/*
+model_machine_learning/
+optimized-gpt2-2b/
 .env
